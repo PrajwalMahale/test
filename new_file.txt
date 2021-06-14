@@ -1,2 +1,1 @@
 This is the first file of the git remote repository.
-This is second line in the new file.
